@@ -26,34 +26,34 @@ The ViewGroup subclass is the base class for layouts, which are invisible contai
 #### LinearLayout
 
 > java.lang.Object
-   ↳	android.view.View
- 	   ↳	android.view.ViewGroup
- 	 	   ↳	android.widget.LinearLayout
+  > ↳	android.view.View
+ 	  >  ↳	android.view.ViewGroup
+ 	 	>   ↳	android.widget.LinearLayout
  
 #### TextView	 	   
  >   java.lang.Object
-   ↳	android.view.View
- 	   ↳	android.widget.TextView
+  >  ↳	android.view.View
+  >	   ↳	android.widget.TextView
  	   
 #### ListView  
   >  java.lang.Object
-       ↳ android.view.View
- 	     ↳	android.view.ViewGroup
- 	 	    ↳	android.widget.AdapterView<android.widget.ListAdapter>
- 	 	 	    ↳	android.widget.AbsListView
- 	 	 	 	    ↳	android.widget.ListView
+    >   ↳ android.view.View
+ 	    > ↳	android.view.ViewGroup
+ 	 	  >  ↳	android.widget.AdapterView<android.widget.ListAdapter>
+ 	 	 	 >   ↳	android.widget.AbsListView
+ 	 	 	 >	    ↳	android.widget.ListView
  	 	 	 	    
 #### ProgressBar 	 	 	 	    
 > java.lang.Object
-   ↳	android.view.View
- 	   ↳	android.widget.ProgressBar
+  > ↳	android.view.View
+ 	 >  ↳	android.widget.ProgressBar
  	   
  	   
 #### Toolbar 	   
 > java.lang.Object
-   ↳	android.view.View
- 	   ↳	android.view.ViewGroup
- 	 	   ↳	android.widget.Toolbar
+   > ↳	android.view.View
+ 	 >  ↳	android.view.ViewGroup
+ 	 	 >  ↳	android.widget.Toolbar
  	   
  	   
  	 
