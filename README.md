@@ -51,10 +51,14 @@ The ViewGroup subclass is the base class for layouts, which are invisible contai
  	   
 #### Toolbar 	   
 > java.lang.Object
-   > ↳	android.view.View
+> ↳	android.view.View
  	 >  ↳	android.view.ViewGroup
  	 	 >  ↳	android.widget.Toolbar
  	   
+     
+> java.lang.Object
+>   ↳	android.view.View
+>    ↳	android.widget.ProgressBar
  	   
  	 
  	 
