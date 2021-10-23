@@ -36,9 +36,7 @@ The ViewGroup subclass is the base class for layouts, which are invisible contai
   	   ↳	android.widget.TextView
  	   
 #### ListView  
-  >  java.lang.Object
-      ↳ android.view.View
- 	      ↳	android.view.ViewGroup
+  >  java.lang.Object ↳ android.view.View ↳	android.view.ViewGroup
  	 	     ↳	android.widget.AdapterView<android.widget.ListAdapter>
  	 	 	    ↳	android.widget.AbsListView
  	 	 	 	    ↳	android.widget.ListView
